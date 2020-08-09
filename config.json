@@ -1,0 +1,16 @@
+{
+  "token": "NzQyMDI3ODI4NDk2Njk1NDE3.XzAJRA._LCdZIGa79P8RzZf-xYnomqhvYY",
+  "prefix": "!",
+  "welcome_channel": "syko", 
+  "embed_emoji": "",
+  "logchannel": "logs",
+  "activity1": "for new users!",
+  "type1": "WATCHING",
+  "activity2": "version 2.0",
+  "type2": "PLAYING",
+  "activitytime": "15000",
+  "ownerID": "463377786133020702",
+  "customtext": "Have a nice time.",
+  "embed_color": "363A3F",
+  "embed_guildname": ""
+}
